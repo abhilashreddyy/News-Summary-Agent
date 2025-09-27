@@ -130,4 +130,4 @@ Step 3 — finalize ✓ Stored digest & notified
 ---
 
 ## 👨‍💻 Author
-Built by [Y Abhilash Reddy] as part of an **Agentic AI assignment/demo**.  
+Built by Y Abhilash Reddy as part of an **Agentic AI assignment/demo**.  
