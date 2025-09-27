@@ -100,7 +100,7 @@ _Add a screenshot of the popup here after a run._
 ---
 
 ## 🎥 Demo Video
-You can see a short demo video [here](YOUR_YOUTUBE_LINK).
+You can see a short demo video [here](https://youtu.be/6Hhu2XU0Pak).
 
 ---
 
@@ -130,4 +130,4 @@ Step 3 — finalize ✓ Stored digest & notified
 ---
 
 ## 👨‍💻 Author
-Built by [Your Name] as part of an **Agentic AI assignment/demo**.  
+Built by [Y Abhilash Reddy] as part of an **Agentic AI assignment/demo**.  
